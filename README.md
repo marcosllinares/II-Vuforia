@@ -4,7 +4,8 @@
 
 Aplicación de realidad aumentada desarrollada en Unity, utilizando Vuforia como SDK de reconocimiento y seguimiento de imágenes. A partir de dos imágenes detectadas mediante la webcam, cada una actúa como trigger para mostrar en pantalla los modelos 3D del gallo y del gato. Ambos modelos aparecen, se orientan y se mantienen alineados dinámicamente con respecto a la posición y rotación de la imagen objetivo.
 
-![a](https://imgur.com/h50aQl5.gif)
+![](https://imgur.com/h50aQl5.gif)
+
 
 ![](https://i.imgur.com/kmkEviN.png)
 
